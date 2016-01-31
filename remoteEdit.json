@@ -1,0 +1,1 @@
+{"hostList":[{"alias":"","hostname":"pairing","directory":"/","username":"","port":"22","localFiles":[],"useAgent":true,"usePrivateKey":false,"usePassword":false,"deserializer":"SftpHost"}],"deserializer":"InterProcessData"}

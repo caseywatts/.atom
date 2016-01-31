@@ -1,0 +1,26 @@
+"graphviz-repl":
+  title: "graphviz-repl"
+  paths: [
+    "/Users/caseywatts/Code/graphviz-repl"
+  ]
+"arlingtonruby.github.io":
+  title: "arlingtonruby.github.io"
+  paths: [
+    "/Users/caseywatts/Code/arlingtonruby.github.io"
+  ]
+"universal-react-boilerplate":
+  title: "universal-react-boilerplate"
+  paths: [
+    "/Users/caseywatts/Code/universal-react-boilerplate"
+  ]
+"caseywatts.github.io":
+  title: "caseywatts.github.io"
+  paths: [
+    "/Users/caseywatts/Code/caseywatts.github.io"
+    "/Users/caseywatts/Code/caseywattsnfs"
+  ]
+control:
+  title: "control"
+  paths: [
+    "/Users/caseywatts/Code/control"
+  ]

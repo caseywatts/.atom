@@ -1,0 +1,61 @@
+"*":
+  "atom-beautify": {}
+  "atom-pair": {}
+  "autoclose-html": {}
+  core:
+    disabledPackages: [
+      "atom-beautify"
+      "linter-htmlhint"
+      "linter-reek"
+      "remote-edit"
+      "Remote-FTP"
+      "linter-rubocop"
+      "motepair2"
+      "indent-guide-improved"
+      "git-diff-details"
+    ]
+    ignoredNames: [
+      ".git"
+    ]
+  editor:
+    invisibles: {}
+  emmet: {}
+  "exception-reporting":
+    userId: "70cc22a8-df4a-82b8-f4c1-3d8559201d0e"
+  "fuzzy-finder":
+    ignoredNames: [
+      ".git"
+    ]
+  "git-diff":
+    showIconsInEditorGutter: true
+  "git-plus": {}
+  jekyll: {}
+  linter:
+    showErrorPanel: false
+  "linter-htmlhint": {}
+  "linter-jscs": {}
+  "linter-reek":
+    executablePath: "/Users/caseywatts/.rbenv/shims/reek"
+  "linter-rubocop":
+    command: "/Users/caseywatts/.rbenv/shims/rubocop"
+  "merge-conflicts": {}
+  metrics:
+    userId: "8367402615e7277fb6f3bf61420e99e82cf474bd"
+  minimap:
+    plugins:
+      "git-diff": true
+  motepair2: {}
+  "release-notes":
+    viewedVersion: "0.94.0"
+  "remote-edit":
+    agentToUse: "pairing"
+  "terminal-plus":
+    core: {}
+    style: {}
+  "travis-ci-status": {}
+  "tree-view":
+    hideIgnoredNames: true
+    showOnRightSide: true
+  "vim-mode": {}
+  welcome:
+    showOnStartup: false
